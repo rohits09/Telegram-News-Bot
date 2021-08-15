@@ -1,0 +1,5 @@
+1. After Creating your Private Key from Google Cloud Console for your DialogFlow project which is NewsBot.
+2. This JSON format file is automatically downloaded, which contains your authentication and private key details.
+3. After downloading, placed this file in you project directory, where your Project source code file is present.
+4. Rename it you want to.
+5. Last do As i did in "DialogFlowInte" file.
